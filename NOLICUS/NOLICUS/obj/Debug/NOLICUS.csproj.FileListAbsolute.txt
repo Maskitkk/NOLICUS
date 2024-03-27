@@ -1,0 +1,13 @@
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\bin\Debug\NOLICUS.exe.config
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\bin\Debug\NOLICUS.exe
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\bin\Debug\NOLICUS.pdb
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\bin\Debug\aa-DJ\NOLICUS.resources.dll
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.csproj.AssemblyReference.cache
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.NOLICUS.resources
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.Properties.Resources.resources
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.NOLICUS.aa-DJ.resources
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.csproj.GenerateResource.cache
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\aa-DJ\NOLICUS.resources.dll
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.exe
+C:\Users\User\Documents\projects\NOLICUS\NOLICUS\obj\Debug\NOLICUS.pdb
